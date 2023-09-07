@@ -1,0 +1,18 @@
+package Level1;
+
+public class _161989_Reapply {
+    public int solution(int n, int m, int[] section) {
+        int answer = 1;
+
+        int end = section[0] + m - 1;
+
+        for(int i = 0 ; i < section.length ; i++) {
+            if(section[i] > end) {
+                answer++;
+                end = section[i] + m - 1;
+            }
+        }
+
+        return answer;
+    }
+}
