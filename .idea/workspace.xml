@@ -1,27 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1f147c9-1cae-4726-8e49-8aefa36af857" name="Changes" comment="" />
+    <list default="true" id="d1f147c9-1cae-4726-8e49-8aefa36af857" name="Changes" comment="24일차 commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2UNIVbpdGn6fls7nmB5AtRvn7wP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PCCP.FirstSampleQuestions" />
+      <recent name="Level2" />
+      <recent name="Level1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PCCP.FirstSampleQuestions.RunMain">
+    <configuration name="Level1.RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level1.RunMain" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Level2.RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Level2.RunMain" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PCCP.FirstSampleQuestions.RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PCCP.FirstSampleQuestions.RunMain" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PCCP.FirstSampleQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PCCP.FirstSampleQuestions.RunMain" />
+        <item itemvalue="Application.Level2.RunMain" />
+        <item itemvalue="Application.Level1.RunMain" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,7 +102,260 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692773637988</updated>
+      <workItem from="1692773639454" duration="556000" />
+      <workItem from="1692849180320" duration="501000" />
+      <workItem from="1692853915792" duration="22000" />
+      <workItem from="1692951221184" duration="135000" />
+      <workItem from="1693220699273" duration="1463000" />
+      <workItem from="1693305215399" duration="2604000" />
+      <workItem from="1693382818072" duration="47000" />
+      <workItem from="1693389335684" duration="246000" />
+      <workItem from="1693389731123" duration="2000" />
+      <workItem from="1693833881355" duration="161000" />
+      <workItem from="1693897393169" duration="846000" />
+      <workItem from="1693983497997" duration="1657000" />
+      <workItem from="1694069388557" duration="5499000" />
+      <workItem from="1694136690237" duration="8589000" />
+      <workItem from="1694153530795" duration="2469000" />
+      <workItem from="1694395784429" duration="1225000" />
+      <workItem from="1694480450946" duration="2508000" />
+      <workItem from="1694590144094" duration="767000" />
+      <workItem from="1694669958505" duration="2456000" />
+      <workItem from="1695098731136" duration="3854000" />
+      <workItem from="1695106523393" duration="3759000" />
+      <workItem from="1695169957108" duration="3547000" />
+      <workItem from="1695191209482" duration="2430000" />
+      <workItem from="1695275028009" duration="1616000" />
+      <workItem from="1695353829892" duration="3786000" />
+      <workItem from="1695367400498" duration="2387000" />
+      <workItem from="1695613987404" duration="4581000" />
+      <workItem from="1695714086212" duration="2368000" />
+      <workItem from="1695775692244" duration="3832000" />
+      <workItem from="1695801734850" duration="3096000" />
+      <workItem from="1696400652216" duration="5108000" />
+      <workItem from="1696484103553" duration="5556000" />
+      <workItem from="1696567472121" duration="6243000" />
+      <workItem from="1696587379292" duration="1124000" />
+      <workItem from="1696590427053" duration="2164000" />
+      <workItem from="1696919016952" duration="1820000" />
+      <workItem from="1696989931886" duration="2575000" />
+      <workItem from="1696997651481" duration="1759000" />
+      <workItem from="1697074905887" duration="4680000" />
+      <workItem from="1697171033917" duration="614000" />
+      <workItem from="1697183539096" duration="1584000" />
+      <workItem from="1697439349287" duration="2670000" />
+      <workItem from="1697526279859" duration="5144000" />
     </task>
+    <task id="LOCAL-00001" summary="1일차 commit">
+      <created>1692774168673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692774168673</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2일차 commit">
+      <created>1692849678255</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692849678255</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3일차 commit">
+      <created>1692951317381</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692951317381</updated>
+    </task>
+    <task id="LOCAL-00004" summary="4일차 commit">
+      <created>1693222150152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693222150152</updated>
+    </task>
+    <task id="LOCAL-00005" summary="5일차 commit">
+      <created>1693308183060</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693308183060</updated>
+    </task>
+    <task id="LOCAL-00006" summary="6일차 commit">
+      <created>1693389530773</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693389530773</updated>
+    </task>
+    <task id="LOCAL-00007" summary="7일차 commit">
+      <created>1693834032950</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1693834032950</updated>
+    </task>
+    <task id="LOCAL-00008" summary="8일차 commit">
+      <created>1693900135737</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693900135737</updated>
+    </task>
+    <task id="LOCAL-00009" summary="9일차 commit">
+      <created>1693985113882</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693985113882</updated>
+    </task>
+    <task id="LOCAL-00010" summary="10일차 commit">
+      <created>1694077745678</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694077745678</updated>
+    </task>
+    <task id="LOCAL-00011" summary="11일차 commit">
+      <created>1694156524379</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1694156524379</updated>
+    </task>
+    <task id="LOCAL-00012" summary="12일차 commit">
+      <created>1694396982757</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694396982757</updated>
+    </task>
+    <task id="LOCAL-00013" summary="13일차 commit">
+      <created>1694482957666</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1694482957666</updated>
+    </task>
+    <task id="LOCAL-00014" summary="14일차 commit">
+      <created>1694672570291</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694672570291</updated>
+    </task>
+    <task id="LOCAL-00015" summary="15일차 commit">
+      <created>1695109193036</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1695109193036</updated>
+    </task>
+    <task id="LOCAL-00016" summary="16일차 commit">
+      <created>1695191780569</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1695191780569</updated>
+    </task>
+    <task id="LOCAL-00017" summary="17일차 commit">
+      <created>1695354989121</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1695354989121</updated>
+    </task>
+    <task id="LOCAL-00018" summary="18일차 commit">
+      <created>1695716738365</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1695716738365</updated>
+    </task>
+    <task id="LOCAL-00019" summary="19일차 commit">
+      <created>1695805096371</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1695805096371</updated>
+    </task>
+    <task id="LOCAL-00020" summary="20일차 commit">
+      <created>1696493053101</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1696493053101</updated>
+    </task>
+    <task id="LOCAL-00021" summary="21일차 commit">
+      <created>1696592723276</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1696592723276</updated>
+    </task>
+    <task id="LOCAL-00022" summary="22일차 commit">
+      <created>1696991848658</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1696991848658</updated>
+    </task>
+    <task id="LOCAL-00023" summary="23일차 commit">
+      <created>1697081503314</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1697081503314</updated>
+    </task>
+    <task id="LOCAL-00024" summary="24일차 commit">
+      <created>1697445258082</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1697445258082</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1일차 commit" />
+    <MESSAGE value="2일차 commit" />
+    <MESSAGE value="3일차 commit" />
+    <MESSAGE value="4일차 commit" />
+    <MESSAGE value="5일차 commit" />
+    <MESSAGE value="6일차 commit" />
+    <MESSAGE value="7일차 commit" />
+    <MESSAGE value="8일차 commit" />
+    <MESSAGE value="9일차 commit" />
+    <MESSAGE value="10일차 commit" />
+    <MESSAGE value="11일차 commit" />
+    <MESSAGE value="12일차 commit" />
+    <MESSAGE value="13일차 commit" />
+    <MESSAGE value="14일차 commit" />
+    <MESSAGE value="15일차 commit" />
+    <MESSAGE value="16일차 commit" />
+    <MESSAGE value="17일차 commit" />
+    <MESSAGE value="18일차 commit" />
+    <MESSAGE value="19일차 commit" />
+    <MESSAGE value="20일차 commit" />
+    <MESSAGE value="21일차 commit" />
+    <MESSAGE value="22일차 commit" />
+    <MESSAGE value="23일차 commit" />
+    <MESSAGE value="24일차 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="24일차 commit" />
   </component>
 </project>
