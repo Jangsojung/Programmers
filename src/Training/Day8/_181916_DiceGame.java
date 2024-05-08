@@ -1,8 +1,8 @@
-package Training;
+package Training.Day8;
 
 import java.util.Arrays;
 
-public class _181917_DiceGame {
+public class _181916_DiceGame {
     public int solution(int a, int b, int c, int d) {
         int[] arr = {a, b, c, d};
         Arrays.sort(arr);
