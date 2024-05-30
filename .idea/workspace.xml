@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1f147c9-1cae-4726-8e49-8aefa36af857" name="Changes" comment="feat: Programmers_Training_LeftRight">
+    <list default="true" id="d1f147c9-1cae-4726-8e49-8aefa36af857" name="Changes" comment="feat: Programmers_Training_ToNElement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -257,14 +257,7 @@
       <workItem from="1716810646141" duration="1948000" />
       <workItem from="1716890027348" duration="689000" />
       <workItem from="1716976038396" duration="1264000" />
-      <workItem from="1717052554804" duration="1496000" />
-    </task>
-    <task id="LOCAL-00075" summary="feat: Programmers_Training_ControlNumberTwo">
-      <created>1713846337260</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1713846337260</updated>
+      <workItem from="1717052554804" duration="2209000" />
     </task>
     <task id="LOCAL-00076" summary="feat: Programmers_Training_SequenceAndSectionQueryThree">
       <created>1713934985381</created>
@@ -602,7 +595,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717053889666</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="feat: Programmers_Training_ToNElement">
+      <created>1717054243344</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1717054243344</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,7 +620,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Programmers_Training_SuffixArray" />
     <MESSAGE value="feat: Programmers_Training_CheckSuffix" />
     <MESSAGE value="feat: Programmers_Training_SubStringN" />
     <MESSAGE value="feat: Programmers_Training_CheckPrefix" />
@@ -645,7 +644,8 @@
     <MESSAGE value="feat: Programmers_Training_FromN2" />
     <MESSAGE value="feat: Programmers_Training_ChangeOrder" />
     <MESSAGE value="feat: Programmers_Training_LeftRight" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Programmers_Training_LeftRight" />
+    <MESSAGE value="feat: Programmers_Training_ToNElement" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Programmers_Training_ToNElement" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
