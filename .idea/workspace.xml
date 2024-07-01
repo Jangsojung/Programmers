@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1f147c9-1cae-4726-8e49-8aefa36af857" name="Changes" comment="feat: Programmers_Training_ToNElement">
+    <list default="true" id="d1f147c9-1cae-4726-8e49-8aefa36af857" name="Changes" comment="feat: Programmers_Training_EmphasizeA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Training/Day16/_181873_MakeUpperCaseOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Training/Day16/_181873_MakeUpperCaseOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +42,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Training.Day16" />
+      <recent name="Training.Day15" />
+      <recent name="Training.Day14" />
       <recent name="Training.Day13" />
       <recent name="Training.Day12" />
-      <recent name="Training.Day11" />
-      <recent name="Training.Day10" />
-      <recent name="Training.Day9" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Level1.RunMain">
+  <component name="RunManager" selected="Application.Training.Day15.RunMain">
     <configuration name="Level1.RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Level1.RunMain" />
       <module name="Programmers" />
@@ -75,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Training.Day12.RunMain" />
+    <configuration name="Training.Day10.RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Training.Day10.RunMain" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Training.Day12.*" />
+          <option name="PATTERN" value="Training.Day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Training.Day10.RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Training.Day10.RunMain" />
+    <configuration name="Training.Day15.RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Training.Day15.RunMain" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Training.Day10.*" />
+          <option name="PATTERN" value="Training.Day15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Training.Day15.RunMain" />
         <item itemvalue="Application.Training.Day10.RunMain" />
         <item itemvalue="Application.Level1.RunMain" />
         <item itemvalue="Application.Training.Day7.RunMain" />
@@ -257,126 +259,20 @@
       <workItem from="1716810646141" duration="1948000" />
       <workItem from="1716890027348" duration="689000" />
       <workItem from="1716976038396" duration="1264000" />
-      <workItem from="1717052554804" duration="2209000" />
-    </task>
-    <task id="LOCAL-00076" summary="feat: Programmers_Training_SequenceAndSectionQueryThree">
-      <created>1713934985381</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1713934985381</updated>
-    </task>
-    <task id="LOCAL-00077" summary="feat: Programmers_Training_SequenceAndSectionQueryTwo">
-      <created>1714020553299</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1714020553300</updated>
-    </task>
-    <task id="LOCAL-00078" summary="feat: Programmers_Training_SequenceAndSectionQueryFour">
-      <created>1714113356571</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1714113356571</updated>
-    </task>
-    <task id="LOCAL-00079" summary="feat: Programmers_Training_MakeArrayTwo">
-      <created>1714230130435</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1714230130436</updated>
-    </task>
-    <task id="LOCAL-00080" summary="feat: Programmers_Lv1_MinimumRectangle2">
-      <created>1714379855674</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1714379855674</updated>
-    </task>
-    <task id="LOCAL-00081" summary="feat: Programmers_Lv1_MockTest2">
-      <created>1714450235794</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1714450235795</updated>
-    </task>
-    <task id="LOCAL-00082" summary="feat: Programmers_Lv1_GymClothes">
-      <created>1714630355848</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1714630355849</updated>
-    </task>
-    <task id="LOCAL-00083" summary="feat: Programmers_Training_CountUp">
-      <created>1714710982515</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1714710982516</updated>
-    </task>
-    <task id="LOCAL-00084" summary="feat: Programmers_Training_CollatzSequence">
-      <created>1714711004407</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1714711004407</updated>
-    </task>
-    <task id="LOCAL-00085" summary="feat: Programmers_Lv2_Process">
-      <created>1714820635746</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1714820635746</updated>
-    </task>
-    <task id="LOCAL-00086" summary="feat: Programmers_Training_MakeArrayFour">
-      <created>1714909729423</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1714909729424</updated>
-    </task>
-    <task id="LOCAL-00087" summary="feat: Programmers_Training_MakeArrayFourStack">
-      <created>1714909740115</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1714909740115</updated>
-    </task>
-    <task id="LOCAL-00088" summary="feat: Programmers_Training_LogicalOperation">
-      <created>1715083430450</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1715083430450</updated>
-    </task>
-    <task id="LOCAL-00089" summary="feat: Programmers_Training_DiceGame">
-      <created>1715083443444</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1715083443444</updated>
-    </task>
-    <task id="LOCAL-00090" summary="refactor: Programmers_Training_LogicalOperation">
-      <created>1715134651867</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1715134651868</updated>
-    </task>
-    <task id="LOCAL-00091" summary="refactor: Programmers_Training_DiceGame">
-      <created>1715134668365</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1715134668365</updated>
-    </task>
-    <task id="LOCAL-00092" summary="feat: Programmers_Training_CharToString">
-      <created>1715134706067</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1715134706067</updated>
+      <workItem from="1717052554804" duration="2300000" />
+      <workItem from="1717133388451" duration="988000" />
+      <workItem from="1717394188951" duration="479000" />
+      <workItem from="1717488530397" duration="1812000" />
+      <workItem from="1717591211931" duration="673000" />
+      <workItem from="1717671681038" duration="1228000" />
+      <workItem from="1718027814177" duration="672000" />
+      <workItem from="1718719242985" duration="346000" />
+      <workItem from="1718800070334" duration="3201000" />
+      <workItem from="1718886557912" duration="118000" />
+      <workItem from="1718971544214" duration="527000" />
+      <workItem from="1719324326757" duration="192000" />
+      <workItem from="1719486806829" duration="522000" />
+      <workItem from="1719833765422" duration="470000" />
     </task>
     <task id="LOCAL-00093" summary="feat: Programmers_Training_9Remainder">
       <created>1715134724058</created>
@@ -602,7 +498,126 @@
       <option name="project" value="LOCAL" />
       <updated>1717054243344</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="feat: Programmers_Training_IntervalNElements">
+      <created>1717054836487</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1717054836487</updated>
+    </task>
+    <task id="LOCAL-00126" summary="feat: Programmers_Training_OddEven">
+      <created>1717134369377</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1717134369377</updated>
+    </task>
+    <task id="LOCAL-00127" summary="feat: Programmers_Training_5People">
+      <created>1717394367819</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1717394367820</updated>
+    </task>
+    <task id="LOCAL-00128" summary="feat: Programmers_Training_5People2">
+      <created>1717394382540</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1717394382540</updated>
+    </task>
+    <task id="LOCAL-00129" summary="feat: Programmers_Training_ToDoList">
+      <created>1717490063382</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1717490063383</updated>
+    </task>
+    <task id="LOCAL-00130" summary="feat: Programmers_Training_BiggerThanN">
+      <created>1717490080097</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1717490080097</updated>
+    </task>
+    <task id="LOCAL-00131" summary="feat: Programmers_Training_SequenceSectionQuarry">
+      <created>1717591882749</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1717591882749</updated>
+    </task>
+    <task id="LOCAL-00132" summary="feat: Programmers_Training__181882_ChangeSequenceOne">
+      <created>1717672551507</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1717672551507</updated>
+    </task>
+    <task id="LOCAL-00133" summary="feat: Programmers_Training__181882_ChangeSequenceTwo">
+      <created>1718719576058</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1718719576058</updated>
+    </task>
+    <task id="LOCAL-00134" summary="feat: Programmers_Training__181882_Make1">
+      <created>1718800844313</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1718800844313</updated>
+    </task>
+    <task id="LOCAL-00135" summary="feat: Programmers_Training__181882_CalculationsBasedOnLength">
+      <created>1718886666274</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1718886666275</updated>
+    </task>
+    <task id="LOCAL-00136" summary="feat: Programmers_Training__181882_FindString">
+      <created>1718972067166</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1718972067167</updated>
+    </task>
+    <task id="LOCAL-00137" summary="feat: Programmers_Training__181882_ToUpperCase">
+      <created>1719324466943</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1719324466944</updated>
+    </task>
+    <task id="LOCAL-00138" summary="feat: Programmers_Training__181882_ToLowerCase">
+      <created>1719324478420</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1719324478420</updated>
+    </task>
+    <task id="LOCAL-00139" summary="feat: Programmers_Training_LowerUpperCase">
+      <created>1719487149986</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1719487149987</updated>
+    </task>
+    <task id="LOCAL-00140" summary="feat: Programmers_Training_LowerUpperCase2">
+      <created>1719487160117</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1719487160117</updated>
+    </task>
+    <task id="LOCAL-00141" summary="feat: Programmers_Training_EmphasizeA">
+      <created>1719834031057</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1719834031058</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,23 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Programmers_Training_CheckSuffix" />
-    <MESSAGE value="feat: Programmers_Training_SubStringN" />
-    <MESSAGE value="feat: Programmers_Training_CheckPrefix" />
-    <MESSAGE value="feat: Programmers_Training_ReverseString" />
-    <MESSAGE value="feat: Programmers_Training_VerticalReading" />
-    <MESSAGE value="feat: Programmers_Training_VerticalReading2" />
-    <MESSAGE value="feat: Programmers_Training_QRCode" />
-    <MESSAGE value="feat: Programmers_Training_QRCode2" />
-    <MESSAGE value="feat: Programmers_Training_CountCharacter" />
-    <MESSAGE value="feat: Programmers_Training_MakeArray" />
-    <MESSAGE value="feat: Programmers_Training_MakeArray2" />
-    <MESSAGE value="feat: Programmers_Training_RemoveCharacter" />
-    <MESSAGE value="feat: Programmers_Training_CountDown" />
-    <MESSAGE value="feat: Programmers_Training_Find1" />
-    <MESSAGE value="feat: Programmers_Training_SliceList" />
-    <MESSAGE value="feat: Programmers_Training_SliceList2" />
-    <MESSAGE value="feat: Programmers_Training_FirstNegativeNumber" />
     <MESSAGE value="feat: Programmers_Training_MakeArrayThree" />
     <MESSAGE value="feat: Programmers_Training_DomainOfTwo" />
     <MESSAGE value="feat: Programmers_Training_ArraySculpt" />
@@ -645,7 +643,24 @@
     <MESSAGE value="feat: Programmers_Training_ChangeOrder" />
     <MESSAGE value="feat: Programmers_Training_LeftRight" />
     <MESSAGE value="feat: Programmers_Training_ToNElement" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Programmers_Training_ToNElement" />
+    <MESSAGE value="feat: Programmers_Training_IntervalNElements" />
+    <MESSAGE value="feat: Programmers_Training_OddEven" />
+    <MESSAGE value="feat: Programmers_Training_5People" />
+    <MESSAGE value="feat: Programmers_Training_5People2" />
+    <MESSAGE value="feat: Programmers_Training_ToDoList" />
+    <MESSAGE value="feat: Programmers_Training_BiggerThanN" />
+    <MESSAGE value="feat: Programmers_Training_SequenceSectionQuarry" />
+    <MESSAGE value="feat: Programmers_Training__181882_ChangeSequenceOne" />
+    <MESSAGE value="feat: Programmers_Training__181882_ChangeSequenceTwo" />
+    <MESSAGE value="feat: Programmers_Training__181882_Make1" />
+    <MESSAGE value="feat: Programmers_Training__181882_CalculationsBasedOnLength" />
+    <MESSAGE value="feat: Programmers_Training__181882_FindString" />
+    <MESSAGE value="feat: Programmers_Training__181882_ToUpperCase" />
+    <MESSAGE value="feat: Programmers_Training__181882_ToLowerCase" />
+    <MESSAGE value="feat: Programmers_Training_LowerUpperCase" />
+    <MESSAGE value="feat: Programmers_Training_LowerUpperCase2" />
+    <MESSAGE value="feat: Programmers_Training_EmphasizeA" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Programmers_Training_EmphasizeA" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
